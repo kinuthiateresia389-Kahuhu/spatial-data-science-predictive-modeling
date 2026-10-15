@@ -38,3 +38,8 @@ An advanced analytics repository mapping spatial statistics, time-series distrib
 - **Objective:** Programmed a live animated time-slider matrix tracking shifting demographic gradients sequentially across continental US countymaps.
 
 https://github.com/user-attachments/assets/f8c82ac7-cfa2-4345-835d-1799ddedf609
+
+
+---
+### 📫 Enterprise Allocations & Consulting Contracts
+To deploy, scale, or integrate this automated predictive AI pipeline for your organization, retain my systems engineering stack directly through [My Upwork Console](https://www.upwork.com/freelancers/~014e56546866817167?mp_source=share).
