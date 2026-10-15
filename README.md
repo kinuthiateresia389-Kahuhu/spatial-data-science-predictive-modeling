@@ -33,7 +33,7 @@ An advanced analytics repository mapping spatial statistics, time-series distrib
 ![Geoprocessing Join Field Log](6_geoprocessing_join_field_log.jpeg)
 ![Python Calculate Field Script](7_python_calculate_field_script.jpeg)
 
-### 5. Longitudinal Time-Series Simulation (Crown Jewel)
+### 5. Longitudinal Time-Series Simulation 
 - **Temporal Constraints:** 144-Month Step Intervals (Timeline: 2008–2020)
 - **Objective:** Programmed a live animated time-slider matrix tracking shifting demographic gradients sequentially across continental US countymaps.
 
