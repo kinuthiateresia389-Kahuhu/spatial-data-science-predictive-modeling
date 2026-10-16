@@ -1,0 +1,7 @@
+ID,Region,Hazard_Type,Vulnerability_Score,Status
+1,Tana-River,Flood,0.88,Active
+2,Kisumu-Transit,Logistics-Failure,0.72,Pending
+3,Homa-Bay,Flood,0.91,Active
+4,Garissa-Border,Drought,0.65,Resolved
+5,Kilifi-Coast,Storm-Surge,0.84,Active
+6,Baringo-Basin,Landslide,0.79,Pending
