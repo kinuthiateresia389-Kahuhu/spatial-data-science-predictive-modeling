@@ -39,6 +39,15 @@ An advanced analytics repository mapping spatial statistics, time-series distrib
 
 https://github.com/user-attachments/assets/f8c82ac7-cfa2-4345-835d-1799ddedf609
 
+---
+### 🐧 Phase 1: Linux Command-Line Telemetry Ingestion (WSL)
+Before feeding environmental vectors into the predictive machine learning models, raw crisis streams are processed inside a native Ubuntu Linux terminal framework. 
+
+The localized dataset `crisis_telemetry.csv` tracks automated hazard logs across primary sectors (Tana-River, Kisumu-Transit, Homa-Bay). The ingestion pipeline executes high-velocity micro-filtering using elite command-line utilities:
+* **Vector Extraction (`grep`):** Isolates high-priority dynamic lines matching specific crisis criteria.
+* **Schema Restructuring (`awk`):** Filters non-essential string fields to map regions directly to their vulnerability scores.
+* **Descending Index Ranking (`sort`):** Ranks regional risk metrics to force the highest hazard parameters to the top of the processing ledger for real-time asset allocation.
+*
 
 ---
 ### 📫 Enterprise Allocations & Consulting Contracts
