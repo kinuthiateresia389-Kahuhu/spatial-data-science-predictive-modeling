@@ -47,7 +47,18 @@ The localized dataset `crisis_telemetry.csv` tracks automated hazard logs across
 * **Vector Extraction (`grep`):** Isolates high-priority dynamic lines matching specific crisis criteria.
 * **Schema Restructuring (`awk`):** Filters non-essential string fields to map regions directly to their vulnerability scores.
 * **Descending Index Ranking (`sort`):** Ranks regional risk metrics to force the highest hazard parameters to the top of the processing ledger for real-time asset allocation.
-*
+
+## Advanced Spatial Statistics & Pattern Detection
+
+*   **Milestone 1: Hot Spot Analysis (Getis-Ord Gi*)**
+    *   **Execution Parameters:** Fixed Distance Band scale calibration set precisely to `145772.3786` meters with a False Discovery Rate (FDR) statistical correction applied.
+    *   **Analytical Impact:** Eliminated descriptive data assumptions by establishing statistically validated high-confidence (95% to 99% CI) hotspot clusters of infrastructure/social anomalies.
+    *   **Artifact Verified:** `Optimized_hotspot_FDR_calibration.jpeg`
+
+*   **Milestone 2: Spatial Outlier Analysis (Anselin Local Moran's I)**
+    *   **Execution Parameters:** Contiguity Edges and Corners neighborhood matrix configuration evaluating spatial variance across adjacent boundaries.
+    *   **Analytical Impact:** Isolate core spatial anomalies rather than uniform clusters. Programmatically extracted High-Low and Low-High outliers, identifying localized data anomalies critical for resource targeting in Disaster Management environments.
+    *   **Artifact Verified:** `Anselin_Local_Morans_I_Outliers.jpeg`
 
 ---
 ### 📫 Enterprise Allocations & Consulting Contracts
