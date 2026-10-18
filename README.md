@@ -47,6 +47,8 @@ The localized dataset `crisis_telemetry.csv` tracks automated hazard logs across
 * **Vector Extraction (`grep`):** Isolates high-priority dynamic lines matching specific crisis criteria.
 * **Schema Restructuring (`awk`):** Filters non-essential string fields to map regions directly to their vulnerability scores.
 * **Descending Index Ranking (`sort`):** Ranks regional risk metrics to force the highest hazard parameters to the top of the processing ledger for real-time asset allocation.
+### Terminal Processing & Stream Validation Proof
+![Linux Terminal Pipeline Output](crisis_telemetry.csv)
 
 ## 🗺️ 2. Advanced Spatial Statistics & Pattern Detection 
 
