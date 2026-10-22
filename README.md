@@ -80,7 +80,7 @@ Below are the empirical system metrics captured live on the machine floor:
 ![Emerging Hot Spot Trend](Emerging_Hot_Spot_Trend_Analysis.jpeg)
 
 ##### 3. 3D Local Scene Multi-Dimensional Animation 
-<video src="https://github.com/user-attachments/assets/3bc70c1f-3995-4369-a280-4277b02c4a80" width="100%" controls></video>
+https://github.com/user-attachments/assets/3bc70c1f-3995-4369-a280-4277b02c4a80
 
 ---
 ### 📫 Enterprise Allocations & Consulting Contracts
