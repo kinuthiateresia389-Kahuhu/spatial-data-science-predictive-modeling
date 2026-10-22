@@ -62,5 +62,27 @@ The localized dataset `crisis_telemetry.csv` tracks automated hazard logs across
 ![Anselin Local Moran's I Outliers](Anselin_Local_Morans_I_Outliers.jpeg)
 
 ---
+### ⏳Multidimensional Space-Time Pattern Mining
+To transition from static 2D hazard representations to predictive temporal analytics, this phase executes a multidimensional space-time pattern mining pipeline to model long-range environmental and socioeconomic risk parameters.
+
+The structural workflow automates risk evaluation across three data engineering matrices:
+* **Schema Synchronization Overrides:** Overrode key-matching schema mismatches by binding primary vector geometry data (`CountyID`) directly to the relational historical attributes table (`SNAP_County_Rates`) across a strict 10-year timeline (2010 to 2019).
+* **Multidimensional Database Compilation:** Flawlessly compiled a multidimensional NetCDF (`.nc`) database architecture layer (`SNAP_1Yr_STC.nc`) tracking defined location space-time cube parameters.
+* **Emerging Hot Spot Trend Optimization:** Deployed the Mann-Kendall trend test to isolate changing regional risk vectors, visualizing consecutive and intensifying hotspot clusters with absolute mathematical clarity.
+
+#### 📊 Execution Diagnostics & Visual Proof-of-Work:
+Below are the empirical system metrics captured live on the machine floor:
+
+##### 1. Multidimensional Cube Ingestion Parameters
+![Space Time Cube Parameters](Space_Time_Cube_Compilation_Parameters.png)
+
+##### 2. Emerging Hot Spot Temporal Trend Analysis
+![Emerging Hot Spot Trend](Emerging_Hot_Spot_Trend_Analysis.png)
+
+##### 3. 3D Local Scene Multi-Dimensional Animation (Click to View Video)
+
+<video src="3D_space_time_cube_multidimensional_trends.mp4" width="100%" controls></video>
+
+---
 ### 📫 Enterprise Allocations & Consulting Contracts
 To deploy, scale, or integrate this automated predictive AI pipeline for your organization, retain my systems engineering stack directly through [My Upwork Console](https://www.upwork.com/freelancers/~014e56546866817167?mp_source=share).
