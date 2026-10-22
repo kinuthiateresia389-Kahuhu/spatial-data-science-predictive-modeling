@@ -74,10 +74,10 @@ The structural workflow automates risk evaluation across three data engineering 
 Below are the empirical system metrics captured live on the machine floor:
 
 ##### 1. Multidimensional Cube Ingestion Parameters
-![Space Time Cube Parameters](Space_Time_Cube_Compilation_Parameters.png)
+![Space Time Cube Parameters](Space_Time_Cube_Compilation_Parameters.jpeg)
 
 ##### 2. Emerging Hot Spot Temporal Trend Analysis
-![Emerging Hot Spot Trend](Emerging_Hot_Spot_Trend_Analysis.png)
+![Emerging Hot Spot Trend](Emerging_Hot_Spot_Trend_Analysis.jpeg)
 
 ##### 3. 3D Local Scene Multi-Dimensional Animation (Click to View Video)
 
