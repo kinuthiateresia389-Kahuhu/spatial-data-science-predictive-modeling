@@ -82,6 +82,22 @@ Below are the empirical system metrics captured live on the machine floor:
 ##### 3. 3D Local Scene Multi-Dimensional Animation 
 https://github.com/user-attachments/assets/3bc70c1f-3995-4369-a280-4277b02c4a80
 
+## 👁️ Deep Learning, Neural Networks & Computer Vision
+
+### 📦 Project Overview
+ I utilized Deep Learning and Computer Vision to parse high-resolution satellite imagery and automatically detect structural features (swimming pools) for municipal asset monitoring. To bypass desktop software environment blocks, I executed the workflow programmatically using a custom ArcPy spatial geometry script.
+
+### 🖼️ Captured Assets & Visual Proofs
+
+*   **Training Data Preparation:** Captured the successful compilation of image chips structured into industry-standard PASCAL VOC formatting.
+    ![Data Export](pascal_voc_deeplearning_export_success.png)
+
+*   **Neural Network Auditing:** Audited the underlying model telemetry and JSON properties for the `ResNet-34` / `SSD` architecture, verifying an elite accuracy rating of **84.2%**.
+    ![Model Metrics](neural_network_validation_metrics.png)
+
+*   **Automated Object Inference:** Executed the computer vision pipeline natively on the terminal floor to programmatically project crisp, colorful bounding boxes directly over the target coordinates.
+    ![Inference Canvas](computer_vision_automated_object_inference.png)
+
 ---
 ### 📫 Enterprise Allocations & Consulting Contracts
 To deploy, scale, or integrate this automated predictive AI pipeline for your organization, retain my systems engineering stack directly through [My Upwork Console](https://www.upwork.com/freelancers/~014e56546866817167?mp_source=share).
